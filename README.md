@@ -6,6 +6,7 @@ The vehicle has the following functions: Bluetooth driving, line tracking, and o
 
 Using the ArduinoBlue App, you can operate the vehicle through Bluetooth and enable/disable line tracking and object avoidance.
 
+Video Demo: https://youtu.be/eqzsAxDyG-o
 
 ## Schematic for Motors and Sensors, respectively
 <img width="871" height="558" alt="image" src="https://github.com/user-attachments/assets/25dc0050-7551-4b92-bb02-2f736ef67fd1" />
